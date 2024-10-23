@@ -19,6 +19,8 @@ import afen from "./afen.png";
 import afenWebp from "./afen.webp";
 import wildAnimals from "./wildanimals.png";
 import wildAnimalsWebp from "./wildanimals.png";
+import urban from "./urban.png"
+import urbanWebp from "./urban.webp"
 
 export {
   webCode,
@@ -42,4 +44,6 @@ export {
   wildAnimals,
   swirge,
   rocket,
+  urban,
+  urbanWebp
 };

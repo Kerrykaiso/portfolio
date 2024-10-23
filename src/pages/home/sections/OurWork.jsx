@@ -10,6 +10,8 @@ import {
 } from "../../../config/animation";
 import { Button } from "../../../components/common";
 import {
+urban,
+urbanWebp,
   swirge,
   swirgeWebp,
   afenWebp,
@@ -256,6 +258,14 @@ const OurWork = () => {
           link="https://afengroup.com/"
           header="Afen"
           desc="Afen is a Web3 infrastructure company dedicated to empowering Africas, with financial inclusion as the main driver."
+        />
+       <ContentContainer
+          img={urban}
+          webp={urbanWebp}
+          imgAlt="urban central website sample image."
+          link="https://urbancntrl.co/"
+          header="Urban central"
+          desc="Urban central is an event organising software for scheduling events and buying tickets."
         />
       </Wrapper>
     </Container>
