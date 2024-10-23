@@ -46,7 +46,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://github.com/marcusxart" target="_blank">
+            <a href="https://github.com/Kerrykaiso" target="_blank">
               Github
             </a>
           </li>
