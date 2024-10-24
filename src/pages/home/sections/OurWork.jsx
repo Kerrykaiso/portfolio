@@ -239,7 +239,7 @@ const OurWork = () => {
           webp={nftngWebp}
           imgAlt="NFT NG website sample image."
           header="NFT NG"
-          live={false}
+          link="https://www.nftng.io/"
           desc="NFT NG brings together digital creators, developers, thought leaders and other Web3 enthusiasts in the African Space and empowering them with opportunities to thrive on a global scale."
         />
         <ContentContainer
