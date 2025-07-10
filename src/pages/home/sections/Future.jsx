@@ -139,8 +139,8 @@ const Future = () => {
             ></motion.div>
             <p>
               To help you create a website that is easy to use, secure, and
-              visually appealing and be able to be optimized for mobile devices
-              and have features such as search engine optimization , social
+              visually appealing and  be optimized for mobile devices
+              and have features such as search engine optimization, social
               media integration, and e-commerce capabilities.
             </p>
           </Desc>

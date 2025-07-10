@@ -162,7 +162,7 @@ const Services = () => {
           <Card isDark={isDark}>
             <CardHeader isDark={isDark}>
               <img src={socialMedia} alt="" />
-              <h3>Wesite Audits</h3>
+              <h3>Website Audits</h3>
             </CardHeader>
             <CardDesc>
               <p>
@@ -174,7 +174,7 @@ const Services = () => {
           <Card isDark={isDark}>
             <CardHeader isDark={isDark}>
               <img src={stationery} alt="" />
-              <h3>Analyics</h3>
+              <h3>Analytics</h3>
             </CardHeader>
             <CardDesc>
               <p>
@@ -192,6 +192,18 @@ const Services = () => {
               <p>
                 This includes making the website or web application run faster
                 and more efficiently.
+              </p>
+            </CardDesc>
+          </Card>
+          <Card isDark={isDark}>
+            <CardHeader isDark={isDark}>
+              <img src={stationery} alt="" />
+              <h3>Automations</h3>
+            </CardHeader>
+            <CardDesc>
+              <p>
+                Get rid of repititve tasks and have them done for you with the help
+               of bots and Artificial inteligence, saving you time and money.
               </p>
             </CardDesc>
           </Card>
