@@ -267,8 +267,17 @@ const OurWork = () => {
           header="Urban central"
           desc="Urban central is an event organising software for scheduling events and buying tickets."
         />
+         <ContentContainer
+          img={urban}
+          webp={urbanWebp}
+          imgAlt="Oscar Newman group sample page."
+          link="https://oscarnewmangroup.org/"
+          header="Oscar Newman"
+          desc="Oscar Newan group is a company that priotizes security and provides saftey for everything and everyone."
+        />
       </Wrapper>
     </Container>
+    
   );
 };
 

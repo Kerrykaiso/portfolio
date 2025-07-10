@@ -161,13 +161,13 @@ const About = () => {
           <Right variants={fadeInRight}>
             <h3>I'm Kerry Esua</h3>
             <p>
-              I am an experienced full-stack developer from Nigeria with over 3
-              years of experience. I specialize in developing web applications
+              An experienced full-stack developer with over 3
+              years of experience. I specialize in developing web applications and workflow automations
               using a variety of technologies, including HTML, CSS, JavaScript,
-              Node.js and more. I'm also knowledgeable in front-end frameworks
-              like React and framer-motion. My experience also includes working
-              with database systems, such as MongoDB and mySql. I am also experienced in
-              developing web services and APIs. I have a passion for creating
+              Node.js, Docker, n8n and more. I'm also knowledgeable in front-end frameworks
+              like React, Nextjs and framer-motion. My experience also includes working
+              with database systems, such as MongoDB and mySql. I'm also experienced in
+              developing web services, microservices and APIs. I have a passion for creating
               innovative solutions that make a difference. I am always looking
               for new challenges and opportunities to further my skills.
             </p>
